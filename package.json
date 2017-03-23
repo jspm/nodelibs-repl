@@ -1,7 +1,7 @@
 {
   "main": "./repl.js",
   "name": "jspm-nodelibs-repl",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "map": {
     "./repl.js": {
       "node": "@node/repl"
